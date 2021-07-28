@@ -1,0 +1,84 @@
+@media (min-width: 1200px) {
+  .img-fluid {
+    width: 1200px;
+    background-image: url(https://images.tokopedia.net/img/cache/750/VCeHif/2021/2/18/6b694fa6-212f-4bf1-9b8d-d2d42f97c741.jpg.webp?ect=4g);
+  }
+}
+
+.action-button {
+  font-size: 35PX;
+  /*padding-top: 5rem;*/
+}
+
+@media (min-width: 1200px) {
+  .btn {
+    /*padding-top: 1rem;*/
+  }
+}
+
+@media (min-width: 1200px) {
+  .a {
+    font-size: 50px;
+    padding-top: 2rem;
+  }
+}
+
+.float {
+  background-image: url(https://img.icons8.com/color/48/000000/whatsapp--v3.png);
+}
+
+@media (min-width: 1200px) {
+  .lab {
+    height: 500px;
+    width: 540px;
+  }
+}
+
+@media (max-width: 360px) {
+  .lab {
+    /*max-height: 500px;*/
+    max-width: 140px;
+    padding-top: 1rem;
+  }
+}
+
+@media (max-width: 360px) {
+  .shop {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    display: flex;
+  }
+}
+
+@media (min-width: 1200px) {
+  .shop {
+    width: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+  }
+}
+
+.partner {
+  max-width: 1000px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 360px) {
+  .partner {
+    max-width: 300px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.B {
+  font-family: sans-serif;
+  font-weight: 1000;
+  padding-top: 1rem;
+}
+

@@ -1,0 +1,38 @@
+@media (min-width: 1200px) {
+  .float {
+    position: fixed;
+    width: 200px;
+    height: 60px;
+    bottom: 40px;
+    right: 0px;
+    /*background-color: #21BAE6;*/
+    color: rgba(0,0,0,0);
+    font-size: 30px;
+    border-radius: 50px;
+    /*text-align: center;*/
+    /*box-shadow: 2px 2px 3px #999;*/
+    background-image: url(https://img.icons8.com/color/48/000000/whatsapp--v3.png);
+    background-repeat: no-repeat;
+  }
+}
+
+.float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 0px;
+  /*background-color: #21BAE6;*/
+  color: rgba(0,0,0,0);
+  font-size: 30px;
+  border-radius: 50px;
+  /*text-align: center;*/
+  /*box-shadow: 2px 2px 3px #999;*/
+  background-image: url(https://img.icons8.com/color/48/000000/whatsapp--v3.png);
+  background-repeat: no-repeat;
+}
+
+.my-float {
+  margin-top: 15px;
+}
+
